@@ -1,0 +1,14 @@
+c:\Users\ksfuh\DirectoryTraversal\bin\Debug\net8.0\DirectoryTraversal.exe
+C:\Users\ksfuh\DirectoryTraversal\bin\Debug\net8.0\DirectoryTraversal.deps.json
+C:\Users\ksfuh\DirectoryTraversal\bin\Debug\net8.0\DirectoryTraversal.runtimeconfig.json
+c:\Users\ksfuh\DirectoryTraversal\bin\Debug\net8.0\DirectoryTraversal.dll
+c:\Users\ksfuh\DirectoryTraversal\bin\Debug\net8.0\DirectoryTraversal.pdb
+c:\Users\ksfuh\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ksfuh\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.AssemblyInfoInputs.cache
+c:\Users\ksfuh\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.AssemblyInfo.cs
+c:\Users\ksfuh\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.csproj.CoreCompileInputs.cache
+c:\Users\ksfuh\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.dll
+c:\Users\ksfuh\DirectoryTraversal\obj\Debug\net8.0\refint\DirectoryTraversal.dll
+c:\Users\ksfuh\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.pdb
+C:\Users\ksfuh\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.genruntimeconfig.cache
+C:\Users\ksfuh\DirectoryTraversal\obj\Debug\net8.0\ref\DirectoryTraversal.dll
